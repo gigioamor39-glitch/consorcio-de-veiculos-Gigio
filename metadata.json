@@ -1,0 +1,6 @@
+{
+  "name": "AutoPlan Consórcio de Veículos",
+  "description": "Inscrição e simulação para compra de consórcio de veículos sem juros com acesso e integração direta ao banco de dados Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
